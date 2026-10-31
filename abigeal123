@@ -1,0 +1,86 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal CV</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background: #f0f4f8;
+            color: #333;
+        }
+
+        header {
+            background: #123456;
+            color: white;
+            text-align: center;
+            padding: 40px 15px;
+        }
+
+        section {
+            background: white;
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #123456;
+        }
+
+        footer {
+            background: #123456;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>My Personal CV</h1>
+    <p>Welcome to my personal website</p>
+</header>
+
+<section>
+    <h2>About Me</h2>
+    <p>Hello! My name is Your Name. I am a hardworking and ambitious student who loves learning new things.</p>
+</section>
+
+<section>
+    <h2>Education</h2>
+    <p>School: My School Name</p>
+    <p>Qualification: Student</p>
+</section>
+
+<section>
+    <h2>My Skills</h2>
+    <ul>
+        <li>Communication</li>
+        <li>Problem Solving</li>
+        <li>Teamwork</li>
+        <li>Computer Skills</li>
+    </ul>
+</section>
+
+<section>
+    <h2>My Interests</h2>
+    <p>Technology, Education, Business and Learning.</p>
+</section>
+
+<section>
+    <h2>Contact</h2>
+    <p>Email: yourname@example.com</p>
+</section>
+
+<footer>
+    <p>© 2026 My Personal CV Website</p>
+</footer>
+
+</body>
+</html>
